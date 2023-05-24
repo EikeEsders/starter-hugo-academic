@@ -2,10 +2,15 @@
 title: "Quantitative detection of aerial suspension of particles with a full-frame visual camera for atmospheric wind tunnel studies"
 authors:
 - admin
-- Eike Esders
+- Christoph Georgi
+- Wolfgang Babel
+- Andreas Held
+- Christoph K. Thomas
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+-
+- "Hey!"
 date: "2022"
 doi: ""
 
