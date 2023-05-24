@@ -11,6 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
       title: Publications
       filters:
@@ -21,7 +22,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: projects
     content:
       title: Projects & Talks
       filters:
