@@ -80,5 +80,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+I am interested in the atmospheric pathways of microplastics, especially the erosion and transport of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for aerial transport of microplastics in nature. 
+
+When I am not at the university I suspend some frisbees into the air.
 {style="text-align: justify;"}
