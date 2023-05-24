@@ -49,23 +49,23 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:eike.esders@uni-bayreuth.de".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/iKe07724546
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=qwPHbBsAAAAJ&hl=en
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9201-1791
-- icon: github
-  icon_pack: fab
-  link: https://github.com/EikeEsders
-- icon: researchgate
-  icon_pack: fab  
-  link: https://www.researchgate.net/profile/Eike_Esders
+    icon_pack: fas
+    link: '#contact'  # For a direct email link, use "mailto:eike.esders@uni-bayreuth.de".
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/iKe07724546
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=qwPHbBsAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9201-1791
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/EikeEsders
+  - icon: researchgate
+    icon_pack: fab  
+    link: https://www.researchgate.net/profile/Eike_Esders
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
