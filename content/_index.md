@@ -13,10 +13,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -39,9 +35,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: eike.esders0uni-bayreuth.de
       address:
         street: Universitätsstrasse 30
         city: Bayreuth
@@ -57,7 +51,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          captcha: false
     design:
       columns: '2'
 ---
