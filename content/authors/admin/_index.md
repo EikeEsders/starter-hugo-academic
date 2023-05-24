@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Investigating the atmospheric transport of microplastics.
+    - course: Investigating the atmospheric transport of microplastics
       institution: University of Bayreuth
       year: 2020
     - course: MSc in Landscape Ecology
@@ -84,4 +84,4 @@ highlight_name: true
 I am interested in the atmospheric pathways of microplastics, especially the erosion and transport of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for aerial transport of microplastics in nature. 
 
 When I am not at the university I suspend some frisbees into the air.
-{style="text-align: justify;"}
+
