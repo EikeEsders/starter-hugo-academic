@@ -43,13 +43,6 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-      Eike.Esders (at) uni-bayreuth.de<br/>
-Department of Micrometeorology<br/>
-Office: Baracke II - Room 11<br/>
-Lab: GEO I - Room 119<br/>
-University of Bayreuth<br/>
-Universitätsstrasse 30<br/>
-95447 Bayreuth
         street: Universitätsstrasse 30
         city: Bayreuth
         postcode: '95440'
