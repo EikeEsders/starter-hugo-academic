@@ -9,7 +9,7 @@ authors:
 - I-Ling Lai
 author_notes:
 date: "2022"
-doi: "https://doi.org/10.1080/02786826.2022.2048789"
+doi: "https://doi.org/10.1007/s00468-020-02009-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-01T00:00:00Z"
