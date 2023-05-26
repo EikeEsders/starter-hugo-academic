@@ -27,7 +27,7 @@ sections:
       title: Addons
       filters:
         folders:
-        -addons
+          -addons
       text: |
         ***Conferences***
 
