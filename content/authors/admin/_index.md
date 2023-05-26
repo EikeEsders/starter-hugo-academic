@@ -80,8 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-
-I am interested in the atmospheric pathways of microplastics, especially the erosion and transport of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for aerial transport of microplastics in nature. 
+I am interested in the atmospheric transport of microplastics. Currently, I am focusing on the emission of microplastics and how it is different from mineral particles. I just started new experiments investigating the interaction of sand saltation and plastic emission.
 
 When I am not at the university I suspend some frisbees into the air.
 
