@@ -4,7 +4,7 @@ title: Micro 2022
 event: Science Conference on Microplastics
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Teneriffe
 address:
   street: 450 Serra Mall
   city: Stanford
