@@ -34,6 +34,10 @@ sections:
         PhD Symposium of the CRC 1375. Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
 
         ***Workshops***
+        
+        Prepare for doctoral defence held by Dr. Dunja Mohr (Organized & Attended)
+        
+        The patriarchy of things - and how it influences my research held by Dr. Elena Köster (Attended)
 
         WiN Kick-Off Career Orientation Workshop held by Dr. Alina Jahn (Organized & Attended)
 
