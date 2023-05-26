@@ -22,6 +22,16 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: addons
+    content:
+      title: Addons
+      filters:
+        folders:
+          - addons
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: talks
     content:
       title: Talks
