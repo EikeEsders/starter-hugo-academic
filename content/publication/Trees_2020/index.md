@@ -27,7 +27,7 @@ publication_short: ""
 abstract: We present a flexible chamber to measure the CO2 efflux from tree bark. The easy-to-use chamber is made of stainless steel and is clamped around an individual tree stem section; it uses a portable gas analyzer to retrieve the stem respiration value. Using the individual data points in combination with data from a forest inventory, the data can, in principle, be up-scaled to achieve the stand-scale stem respiration. We performed a feasibility study in a young forest plantation in tropical southern Taiwan, which yielded robust and meaningful results.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -64,6 +64,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
