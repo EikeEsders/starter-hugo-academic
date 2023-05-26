@@ -1,5 +1,5 @@
 ---
-title: How does plastics fly?
+title: How do plastics fly?
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
