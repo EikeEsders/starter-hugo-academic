@@ -25,6 +25,9 @@ sections:
     id: addons
     content:
       title: Addons
+      filters:
+        folders:
+        -addons
       text: |
         ***Conferences***
 
