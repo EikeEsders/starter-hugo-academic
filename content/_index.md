@@ -31,14 +31,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    id: addons
-    content:
-      title: Addons
-      subtitle: test
-      text: PhD Symposium of the CRC 1375. Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
