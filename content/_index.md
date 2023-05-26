@@ -36,7 +36,7 @@ sections:
     content:
       title: Addons
       subtitle: test
-      text: ***Conferences***
+      text: Add
     design:
       columns: '2'
   - block: contact
