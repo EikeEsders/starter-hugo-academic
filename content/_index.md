@@ -22,12 +22,22 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: projects
+    id: talks
     content:
-      title: Projects & Talks
+      title: Talks
       filters:
         folders:
           - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: projects
+    content:
+      title: Addons
+      filters:
+        folders:
+          - addons
     design:
       columns: '2'
       view: compact
