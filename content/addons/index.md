@@ -76,7 +76,9 @@ subtitle = ""
 +++
 ***Conferences***
 
-PhD Symposium of the CRC 1375. Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
+Phd Symposium of the CRC 1375 (2023). And the winner is: https://www.ubtaktuell.uni-bayreuth.de/phd-symposium-2023
+
+PhD Symposium of the CRC 1375 (2022). Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
 
 ***Workshops***
 
@@ -86,8 +88,7 @@ Write-it-Right Workshop held by Gadi Rothenberg and Christopher Lowe (Attended)
 
 ***Additional acitivities***
 
-I was elected to be the PhD Representative of the CRC 1375 for the next year. Thanks guys!
-
+PhD Representative of the CRC 1375 (2022-2023)
 
 ***Supervision***
 
