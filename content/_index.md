@@ -30,6 +30,7 @@ sections:
           - addons
       text: |
         ***Conferences***
+    
         PhD Symposium. And the winner is: https://www.ubtaktuell.uni-bayreuth.de/phd-symposium-2023 (Organized & Attended)
 
         PhD Symposium of the CRC 1375 (2022). Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
