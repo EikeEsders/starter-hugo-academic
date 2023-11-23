@@ -51,9 +51,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'  # For a direct email link, use "mailto:eike.esders@uni-bayreuth.de".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/iKe07724546
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qwPHbBsAAAAJ&hl=en
