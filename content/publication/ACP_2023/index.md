@@ -5,7 +5,7 @@ authors:
 - Inka Krammel
 - Sebastian Sittl
 - Wolfgang Babel
-- Georg Papastavrous
+- Georg Papastavrou
 - Christoph K. Thomas
 author_notes:
 date: "2023"
