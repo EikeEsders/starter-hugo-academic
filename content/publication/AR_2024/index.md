@@ -8,7 +8,7 @@ authors:
 - Christoph K. Thomas
 author_notes:
 date: "2024"
-doi: "[https://doi.org/10.5194/egusphere-2023-1025](https://doi.org/10.5194/ar-2024-9)"
+doi: "https://doi.org/10.5194/ar-2024-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1025/'
+url_pdf: 'https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1025/egusphere-2023-1025.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
