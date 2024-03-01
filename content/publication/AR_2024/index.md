@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1025/egusphere-2023-1025.pdf'
+url_pdf: 'https://ar.copernicus.org/preprints/ar-2024-9/ar-2024-9.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
