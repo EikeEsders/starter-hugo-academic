@@ -9,7 +9,7 @@ authors:
 - Christoph K. Thomas
 author_notes:
 date: "2023"
-doi: "https://doi.org/10.5194/egusphere-2023-1025"
+doi: "https://doi.org/10.5194/acp-23-15835-2023"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-01T00:00:00Z"
