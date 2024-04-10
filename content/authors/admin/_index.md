@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am interested in the atmospheric transport of microplastics. Currently, I am focusing on the emission of microplastics and how it is different from mineral particles. I just started new experiments investigating the interaction of sand saltation and plastic emission.
+I research the atmospheric transport of microplastics. Currently, I am writing my thesis, which talks about how to link detachment of microspheres to fluid forces, what fluid forces are needed to detach microplastics compared to mineral particles and possibly start their long-range transport, how airborne microplastics behave in turbulence and laminar flows and last but not least about the degredation of plastic surfaces by saltating sand particles.
 
-When I am not at the university I suspend some frisbees into the air.
+When I am not at the university I observe airborne frisbees.
 
